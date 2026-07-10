@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Aryan 👋
 
-<!--
-**Aryan-1105/Aryan-1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at NIT Rourkela, self-teaching my way into Data Science & Machine Learning by building real, end-to-end projects instead of just tutorials.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- 🏠 House Price Prediction — regression pipeline with proper logging & exception handling
+- 📊 Turning my fantasy cricket & stock market analysis habits into real ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+Python · Scikit-learn · Pandas · NumPy · Flask · SQL · Git
+
+**Featured project:**
+🎓 [Student Performance Predictor](https://github.com/Aryan-1105/Student-Performance-Predictor) — end-to-end ML web app benchmarking 12 regression models, deployed live.
+[Live Demo →](https://student-performance-predictor-8et9.onrender.com/)
+
+**Let's connect:**
+[LinkedIn](https://www.linkedin.com/in/aryan-kumar-sahoo/) · aryankumarshaoo10@gmail.com
