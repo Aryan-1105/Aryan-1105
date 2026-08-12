@@ -25,7 +25,7 @@ I enjoy turning raw data into **actionable insights, predictive models, and depl
 ## 🛠️ Tech Stack
 
 **Languages:**
-Python · SQL · C++
+Python · SQL 
 
 **Data Science & Machine Learning:**
 Pandas · NumPy · Scikit-learn
