@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi, I'm Aryan Kumar Sahoo 👋
@@ -126,7 +125,6 @@ I'm currently building toward a career in **Machine Learning Engineering and Dat
 
 ### Current Learning Path
 
-```text
 Python
    ↓
 SQL & Data Analysis
@@ -142,7 +140,6 @@ Deep Learning
 Deployment & MLOps
    ↓
 Data Science / ML Engineering
-````
 
 ---
 
