@@ -2,165 +2,195 @@
 
 # Hi, I'm Aryan Kumar Sahoo 👋
 
-### Machine Learning Engineer | Aspiring Data Scientist | NIT Rourkela
+### Mechanical Engineering Undergraduate · NIT Rourkela
 
-Mechanical Engineering undergraduate at **National Institute of Technology, Rourkela** focused on building **end-to-end Machine Learning and Data Science solutions**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Machine+Learning+%7C+Data+Science;Building+end-to-end+ML+systems;Python+%7C+SQL+%7C+FastAPI+%7C+Scikit-learn" alt="Animated introduction: Machine Learning, Data Science, and end-to-end ML systems" />
 
-I work across the complete ML workflow — from **data ingestion, preprocessing, feature engineering, and model evaluation to deployment and reproducible inference systems**.
+<p>
+  I build practical data and machine learning projects — from data preparation and model evaluation to APIs, dashboards, and deployment.
+</p>
 
-**Python · SQL · Machine Learning · Data Analytics · Flask · PostgreSQL · Docker**
-
-[LinkedIn](https://www.linkedin.com/in/aryan-kumar-sahoo/) •
-[GitHub](https://github.com/Aryan-1105) •
-[Email](mailto:aryankumarsahoo10@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## Navigate
 
-- 🏠 **House Price Prediction** — developing an end-to-end regression pipeline with **PostgreSQL ingestion, feature engineering, preprocessing, cross-validation, hyperparameter tuning, model serialization, Docker, and deployment**.
-- 🤖 **Machine Learning Engineering** — strengthening **model evaluation, reusable pipelines, logging, exception handling, and deployment workflows**.
-- 📊 **Data Analytics** — improving **SQL, exploratory data analysis, Power BI, and business-oriented data storytelling**.
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#technical-skills">Skills</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#github-at-a-glance">GitHub Activity</a> ·
+  <a href="#connect">Contact</a>
+</p>
 
----
+## About Me
 
-## 🛠️ Technical Stack
+I am a **B.Tech Mechanical Engineering undergraduate at the National Institute of Technology, Rourkela**, building my skills in Machine Learning, Data Science, and software development.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+I enjoy taking projects beyond experimentation: understanding the data, building reliable preprocessing workflows, comparing models with appropriate metrics, and making predictions or insights accessible through applications and dashboards.
 
-### Machine Learning & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+**My current areas of focus:**
+- End-to-end machine learning workflows and reusable preprocessing pipelines.
+- Model selection, validation, feature engineering, and error analysis.
+- Python, SQL, and data-driven problem solving.
+- REST API development, application integration, and deployment fundamentals.
 
-### Backend, Deployment & MLOps
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+I'm interested in **internship opportunities in Machine Learning, Data Science, and Data Analytics**.
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+## Technical Skills
 
-### Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+| Area | Tools and Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, XGBoost, CatBoost |
+| Backend & APIs | FastAPI, Flask |
+| Databases | PostgreSQL, SQLAlchemy |
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| BI & Visualization | Power BI, Excel |
+| Development & Workflow | Git, GitHub Actions, Docker, DVC, Jupyter, VS Code |
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🎓 [Student Performance Predictor](https://github.com/Aryan-1105/Student-Performance-Predictor)
+A curated selection of machine learning and analytics projects. Each repository contains its own implementation details and supporting materials.
 
-End-to-end Machine Learning application for predicting student Mathematics scores.
+### 1. 🎓 Student Performance Predictor
 
-- Benchmarked **12 regression algorithms** and selected **Ridge Regression** with a validation **R² of 0.8597**.
-- Built a modular workflow covering **data ingestion, preprocessing, feature engineering, model selection, hyperparameter tuning, serialization, and inference**.
-- Implemented **RandomizedSearchCV, structured logging, reusable ML components, and custom exception handling**.
-- Deployed a **Flask + Bootstrap** application on Render.
+**An end-to-end regression application that predicts students' Mathematics scores.**
 
-🔗 [Repository](https://github.com/Aryan-1105/Student-Performance-Predictor) •
-🚀 [Live Demo](https://student-performance-predictor-8et9.onrender.com/)
+- Evaluated **12 regression algorithms**.
+- Selected **Ridge Regression** with a validation **R² score of 0.8597**.
+- Implemented modular data ingestion, preprocessing, feature engineering, hyperparameter tuning, serialization, and inference.
+- Built a Flask web application and deployed it on Render.
 
----
+**Tech:** Python · Pandas · Scikit-learn · XGBoost · CatBoost · Flask
 
-### 🏠 [House Price Prediction](https://github.com/Aryan-1105/House_Price_Prediction)
-
-Production-oriented regression project integrating machine learning with a PostgreSQL-backed data pipeline.
-
-- Built **PostgreSQL-based data ingestion** and a modular end-to-end ML workflow.
-- Engineered **4 features from 12 original inputs** with numerical imputation, standardization, categorical encoding, and target transformation.
-- Benchmarked **10 regression models using 5-fold cross-validation**.
-- Implemented **RandomizedSearchCV, model serialization, structured logging, and exception handling**.
-- Containerized the application with **Docker** and deployed it using **Render** with **GitHub Actions CI**.
-
-🔗 [Repository](https://github.com/Aryan-1105/House_Price_Prediction) •
-🚀 [Live Demo](https://house-price-prediction-afyu.onrender.com/)
+[Repository](https://github.com/Aryan-1105/Student-Performance-Predictor) · [Live Demo](https://student-performance-predictor-8et9.onrender.com/)
 
 ---
 
-### 📉 [Customer Churn Analysis](https://github.com/Aryan-1105/Customer-Churn-Analysis)
+### 2. 🏙️ NYC Airbnb Room Type Prediction
 
-Exploratory data analysis project focused on understanding customer churn behavior and identifying high-risk customer segments.
+**A multiclass classification application that predicts the room type of a New York City Airbnb listing.**
+
+- Compared **five classification models** using accuracy and macro F1-score.
+- Random Forest led the reported comparison with **85.5% accuracy**.
+- Reviewed class-level predictions with a confusion matrix; shared-room recall was approximately **43.4%**, highlighting an area for improvement.
+- Integrated the trained model with a **FastAPI** backend and an **HTML, CSS, and JavaScript** frontend.
+- Displays the predicted room category and class probability distribution.
+
+**Tech:** Python · Pandas · Scikit-learn · FastAPI · Pydantic · Joblib · HTML · CSS · JavaScript
+
+[Repository](https://github.com/Aryan-1105/NYC-Airbnb-Room-Type-Prediction)
+
+---
+
+### 3. 🏠 House Price Prediction
+
+**A production-oriented regression workflow with PostgreSQL-backed data ingestion.**
+
+- Built a modular pipeline for PostgreSQL ingestion, feature engineering, preprocessing, training, and inference.
+- Created **four engineered features** from 12 original input features.
+- Compared **10 regression models** using **5-fold cross-validation**.
+- Applied numerical and categorical preprocessing, target transformation, and hyperparameter tuning.
+- Added Flask serving, Docker support, GitHub Actions CI, and DVC metadata for data workflow management.
+
+**Tech:** Python · PostgreSQL · SQLAlchemy · Scikit-learn · Flask · Docker · GitHub Actions · DVC
+
+[Repository](https://github.com/Aryan-1105/House_Price_Prediction) · [Live Demo](https://house-price-prediction-afyu.onrender.com/)
+
+---
+
+### 4. 📉 Telco Customer Churn Analysis
+
+**Exploratory analysis of customer churn patterns in a telecommunications dataset.**
 
 - Analyzed **7,043 customers across 21 features**.
-- Investigated relationships between **tenure, contract type, services, payment behavior, and churn**.
-- Identified customer segments associated with higher churn risk.
-- Translated analytical findings into **business-focused retention insights**.
+- Investigated churn patterns across tenure, contract type, customer services, and payment methods.
+- Identified higher-churn customer segments and translated findings into business-focused retention recommendations.
 
-🔗 [Repository](https://github.com/Aryan-1105/Customer-Churn-Analysis)
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Exploratory Data Analysis
 
----
-
-### ☕ [Coffee Shop Sales Dashboard](https://github.com/Aryan-1105/Coffee-Shop-Sales-Dashboard)
-
-Business analytics project focused on sales performance, trends, and operational KPIs using interactive dashboards.
-
-🔗 [Repository](https://github.com/Aryan-1105/Coffee-Shop-Sales-Dashboard)
+[Repository](https://github.com/Aryan-1105/Customer-Churn-Analysis)
 
 ---
 
-### 🛒 [Blinkit Sales Analysis](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI)
+### 5. 🛒 Blinkit Sales Analysis — SQL & Power BI
 
-SQL and Power BI analytics project examining sales performance, outlet characteristics, product categories, and business KPIs.
+**A business intelligence project analyzing sales, product categories, outlet characteristics, and customer ratings.**
 
-🔗 [Repository](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI)
+- Analyzed **8,523 item records**.
+- Built SQL queries for data cleaning, KPI calculations, and sales analysis.
+- Developed an interactive Power BI dashboard with DAX measures, Power Query transformations, and business-focused visualizations.
+- Examined sales by fat content, item type, outlet size, outlet location, and establishment year.
 
----
+**Tech:** SQL · Power BI · DAX · Power Query · Excel
 
-## 🎯 Career Focus
+[Repository](https://github.com/Aryan-1105/Blinkit_Sales_Analysis_SQL_PowerBI)
 
-I'm currently building toward a career in **Machine Learning Engineering and Data Science**, with a focus on developing practical, deployable ML systems.
+## How I Approach ML Projects
 
-### Current Learning Path
+I aim to make machine learning work understandable, testable, and reproducible:
 
-Python
-   ↓
-SQL & Data Analysis
-   ↓
-Statistics
-   ↓
-Machine Learning
-   ↓
-Feature Engineering & Model Evaluation
-   ↓
-Deep Learning
-   ↓
-Deployment & MLOps
-   ↓
-Data Science / ML Engineering
+1. **Understand the problem and data** — define the target, prediction task, and data constraints.
+2. **Explore and prepare** — investigate distributions, missingness, data quality, and feature behaviour.
+3. **Build a baseline** — establish a measurable starting point.
+4. **Evaluate carefully** — use suitable validation strategies and metrics; inspect class-level errors where relevant.
+5. **Package the workflow** — keep preprocessing and inference consistent.
+6. **Deploy and communicate** — expose the result through an API or application and document how it works.
 
----
+## GitHub at a Glance
 
-## 📈 Areas I'm Improving
+<p align="center">
+  <a href="https://github.com/Aryan-1105">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-1105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Aryan-1105">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages on GitHub" />
+  </a>
+</p>
 
-* Machine Learning and statistical modeling
-* SQL and analytical problem solving
-* Feature engineering and model evaluation
-* ML deployment and MLOps fundamentals
-* Business analytics and data visualization
-* Building reproducible, maintainable ML systems
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aryan-1105&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-1105&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+<sub>GitHub statistics and activity visualizations are generated dynamically by third-party services and may occasionally be unavailable or delayed.</sub>
+
+## Connect
+
+I'm keen to connect with people working in Machine Learning, Data Science, and Data Analytics.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Kumar_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/GitHub-Aryan--1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aryan" /></a>
+</p>
 
 <div align="center">
 
-### Let's Build Something Useful 🚀
-
-Open to opportunities in **Machine Learning, Data Science, Data Analytics, and AI/ML**.
-
-**[LinkedIn](https://www.linkedin.com/in/aryan-kumar-sahoo/) · [GitHub](https://github.com/Aryan-1105) · [Email](mailto:aryankumarsahoo10@gmail.com)**
+**Thanks for visiting my profile!** ⭐
 
 </div>
-```
