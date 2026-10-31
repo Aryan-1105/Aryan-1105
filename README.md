@@ -10,24 +10,35 @@
   I build practical data and machine learning projects — from data preparation and model evaluation to APIs, dashboards, and deployment.
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+<p align="center">
+  <strong>LINKEDIN</strong>&nbsp;
+  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/">
+    <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <strong>GITHUB</strong>&nbsp;
+  <a href="https://github.com/Aryan-1105">
+    <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <strong>EMAIL</strong>&nbsp;
+  <a href="mailto:aryankumarsahoo10@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## Navigate
+## 🧭 Navigate
 
 <p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#technical-skills">Skills</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#github-at-a-glance">GitHub Activity</a> ·
-  <a href="#connect">Contact</a>
+  <a href="#about-me">👤 About Me</a> ·
+  <a href="#technical-skills">🛠️ Skills</a> ·
+  <a href="#featured-projects">🚀 Projects</a> ·
+  <a href="#github-at-a-glance">📊 GitHub Activity</a> ·
+  <a href="#connect">🤝 Connect</a>
 </p>
 
 ## About Me
@@ -158,35 +169,56 @@ I aim to make machine learning work understandable, testable, and reproducible:
 5. **Package the workflow** — keep preprocessing and inference consistent.
 6. **Deploy and communicate** — expose the result through an API or application and document how it works.
 
-## GitHub at a Glance
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <a href="https://github.com/Aryan-1105">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-1105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Aryan-1105">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages on GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan-1105&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+### Profile Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-1105&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-1105&theme=github_dark" alt="GitHub Profile Summary" />
 
-<sub>GitHub statistics and activity visualizations are generated dynamically by third-party services and may occasionally be unavailable or delayed.</sub>
+### Statistics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-1105&theme=github_dark" alt="GitHub Statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-1105&theme=github_dark" alt="Repository Languages" />
+
+### Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aryan-1105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://ghchart.rshah.org/409ba5/Aryan-1105"
+    alt="Aryan's GitHub Contribution Graph"
+    width="100%"
+  />
+
+</div>
 
 ## Connect
 
 I'm keen to connect with people working in Machine Learning, Data Science, and Data Analytics.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Kumar_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/GitHub-Aryan--1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aryan" /></a>
+
+  <strong>LINKEDIN</strong>
+  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/">
+    <img src="https://img.shields.io/badge/ARYAN_KUMAR_SAHOO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryan Kumar Sahoo on LinkedIn" />
+  </a>
+
+  <strong>GITHUB</strong>
+  <a href="https://github.com/Aryan-1105">
+    <img src="https://img.shields.io/badge/ARYAN--1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aryan's GitHub" />
+  </a>
+
+  <strong>EMAIL</strong>
+  <a href="mailto:aryankumarsahoo10@gmail.com">
+    <img src="https://img.shields.io/badge/SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aryan" />
+  </a>
+
 </p>
 
 <div align="center">
