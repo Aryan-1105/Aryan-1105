@@ -22,15 +22,19 @@
 
 ---
 
-## 🧭 Navigate
+<h2>🧭 Navigate</h2>
 
 <p align="center">
-  <a href="#about-me">👤 About Me</a> ·
-  <a href="#technical-skills">🛠️ Skills</a> ·
-  <a href="#featured-projects">🚀 Projects</a> ·
-  <a href="#github-at-a-glance">📊 GitHub Activity</a> ·
+  <a href="#about-me">👤 About Me</a>
+  &nbsp; · &nbsp;
+  <a href="#technical-skills">🛠️ Skills</a>
+  &nbsp; · &nbsp;
+  <a href="#featured-projects">🚀 Projects</a>
+  &nbsp; · &nbsp;
+  <a href="#github-at-a-glance">📊 GitHub at a Glance</a>
+  &nbsp; · &nbsp;
   <a href="#connect">🤝 Connect</a>
-</p>
+</p> 
 
 ## About Me
 
@@ -160,7 +164,7 @@ I aim to make machine learning work understandable, testable, and reproducible:
 5. **Package the workflow** — keep preprocessing and inference consistent.
 6. **Deploy and communicate** — expose the result through an API or application and document how it works.
 
-## 📊 GitHub at a Glance
+## GitHub at a Glance
 
 <div align="center">
 
@@ -187,6 +191,7 @@ I aim to make machine learning work understandable, testable, and reproducible:
     width="100%"
   />
 
+</div>
 </div>
 
 ## Connect
