@@ -11,20 +11,11 @@
 </p>
 
 <p align="center">
-  <strong>LINKEDIN</strong>&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/">
-    <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge" alt="LinkedIn label" /><a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
   &nbsp;&nbsp;
-  <strong>GITHUB</strong>&nbsp;
-  <a href="https://github.com/Aryan-1105">
-    <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge" alt="GitHub label" /><a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
   &nbsp;&nbsp;
-  <strong>EMAIL</strong>&nbsp;
-  <a href="mailto:aryankumarsahoo10@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email" />
-  </a>
+  <img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge" alt="Email label" /><a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
 </div>
@@ -111,7 +102,7 @@ A curated selection of machine learning and analytics projects. Each repository 
 
 **Tech:** Python · Pandas · Scikit-learn · FastAPI · Pydantic · Joblib · HTML · CSS · JavaScript
 
-[Repository](https://github.com/Aryan-1105/NYC-Airbnb-Room-Type-Prediction)
+[Repository](https://github.com/Aryan-1105/NYC-Airbnb-Room-Type-Prediction) · [Live Demo](https://nyc-airbnb-room-type-prediction-1-kodd.onrender.com/)
 
 ---
 
@@ -203,22 +194,9 @@ I aim to make machine learning work understandable, testable, and reproducible:
 I'm keen to connect with people working in Machine Learning, Data Science, and Data Analytics.
 
 <p align="center">
-
-  <strong>LINKEDIN</strong>
-  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/">
-    <img src="https://img.shields.io/badge/ARYAN_KUMAR_SAHOO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryan Kumar Sahoo on LinkedIn" />
-  </a>
-
-  <strong>GITHUB</strong>
-  <a href="https://github.com/Aryan-1105">
-    <img src="https://img.shields.io/badge/ARYAN--1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aryan's GitHub" />
-  </a>
-
-  <strong>EMAIL</strong>
-  <a href="mailto:aryankumarsahoo10@gmail.com">
-    <img src="https://img.shields.io/badge/SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aryan" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/aryan-kumar-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-Aryan_Kumar_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/Aryan-1105"><img src="https://img.shields.io/badge/GitHub-Aryan--1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:aryankumarsahoo10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aryan" /></a>
 </p>
 
 <div align="center">
